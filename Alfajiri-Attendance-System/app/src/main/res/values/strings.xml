@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Alfajiri Attendance System</string>
+
+    //custom
+
+    <string name="account_type">Select your account type</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="nav_drawer_open">open</string>
+    <string name="nav_drawer_close">close</string>
+
+
+    <string-array name="semester">
+        <item>Select semester</item>
+        <item>Jan-Apr</item>
+        <item>May-Aug</item>
+        <item>Sep-Dec</item>
+
+    </string-array>
+
+    <string-array name="department">
+        <item>Select department</item>
+        <item>English</item>
+        <item>Bachelor Business Administration</item>
+        <item>Electrical Engineering</item>
+        <item>Computer Science and Engineering</item>
+        <item>Math</item>
+        <item>Sociology</item>
+        <item>Economic</item>
+
+    </string-array>
+    <string-array name="year">
+
+        <item>Select year</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+
+    </string-array>
+
+    <string-array name="course">
+        <item>C</item>
+        <item>C++</item>
+        <item>JAVA</item>
+        <item>Database</item>
+        <item>Compiler Design</item>
+        <item>Computer Architecture</item>
+        <item>Human Computer Interface</item>
+        <item>Information System Security</item>
+        <item>Software Project Management</item>
+        <item>Programming Methodology</item>
+        <item>ICT and Society</item>
+    </string-array>
+
+    <string-array name="course_code">
+        <item>CSE-111</item>
+        <item>CSE-121</item>
+        <item>CSE-231</item>
+        <item>CSE-221</item>
+        <item>CSE-321</item>
+        <item>CSE-421</item>
+        <item>CSE-521</item>
+        <item>CSE-621</item>
+    </string-array>
+    <string-array name="desig">
+        <item>Select Designation</item>
+        <item>Professor</item>
+        <item>Associate Professor</item>
+        <item>Lecturer</item>
+    </string-array>
+
+    <string-array name="shift">
+
+
+        <item>Select shift</item>
+        <item>Day</item>
+        <item>Evening</item>
+    </string-array>
+
+    //intro
+    <string name="intro_details">Manage teacher and student information\n
+        course allocation System\n
+        take live Attendance
+    </string>
+    <string name="intro_contacts">Manage Teacher and Student information</string>
+    <string name="intro_blood_donation">Course Allocation System</string>
+    <string name="intro_find_location">Take live Attendance</string>
+
+
+
+</resources>

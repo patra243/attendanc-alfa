@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Alfajiri-Attendance-System/app/src/main/res/drawable/ic_add.xml" value="0.1785" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Alfajiri-Attendance-System/app/src/main/res/layout/activity_add_student.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Alfajiri-Attendance-System/app/src/main/res/layout/activity_admin_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Alfajiri-Attendance-System/app/src/main/res/layout/activity_course_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Alfajiri-Attendance-System/app/src/main/res/layout/activity_select_student.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Alfajiri-Attendance-System/app/src/main/res/layout/activity_student_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Alfajiri-Attendance-System/app/src/main/res/layout/activity_teacher_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Alfajiri-Attendance-System/app/src/main/res/layout/single_student_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Alfajiri-Attendance-System/app/src/main/res/layout/update_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Alfajiri-Attendance-System/app/src/main/res/layout/view_attendance.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Alfajiri-Attendance-System/app/src/main/res/menu/menu_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Alfajiri-Attendance-System/app/src/main/res/menu/option_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/drawable-v24/border.xml" value="0.1715" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_add_course.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_add_student.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_add_teacher.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_admin.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_admin_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_admin_sign_up.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_attendace_student.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_course_deptctivity.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_course_list.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_date_picker.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_dept.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_intro.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_select_student.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_selected_course.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_selected_course1.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_show_attendance.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_splash.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_student.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_student_list.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_student_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_take_attendance.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_teacher.xml" value="0.27025641025641023" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_teacher_list.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_teacher_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/activity_view_attendence.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/admin_nav_header.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/attendancepopup.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/fragment_admin_home.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/fragment_student.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/fragment_teacher.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/intro_content_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/single_student_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/spinner_item.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/take_attendance_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/view_attendance.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/layout/viewatedance.xml" value="0.27025641025641023" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/menu/menu_layout.xml" value="0.27025641025641023" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/menu/option_menu.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/patri/AndroidStudioProjects/Attendance-System-App-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1715" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

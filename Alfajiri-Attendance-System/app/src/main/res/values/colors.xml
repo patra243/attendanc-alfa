@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c0392b</color>
+    <color name="colorPrimaryLite">#40809D</color>
+    <color name="colorPrimaryLite2">#2D40809D</color>
+    <color name="colorPrimaryDark">#c0392b</color>
+    <color name="colorAccent">#1B536D</color>
+
+
+    //custom color
+
+    <color name="colorBlack">#000</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorRed">#ec1f24</color>
+    <color name="colorPink">#d91f63</color>
+    <color name="colorGreen">#00911d</color>
+    <color name="colorLightGray">#d7d7d7</color>
+    <color name="colorGray">#a1a1a1</color>
+    <color name="colorDeepGray">#747474</color>
+    <color name="colorBlue">#2b71fd</color>
+    <color name="colorLayoutBG">#FAE2E1</color>
+    <color name="colorLayoutDeepBG">#EECCCA</color>
+    <color name="blueLink">#257df1</color>
+
+    <color name="whitesmoke">#f5f5f5</color>
+    <color name="clear_chill">#1e90ff</color>
+    <color name="cloud">#ecf0f1</color>
+    <color name="dfwhite">#f7f1e3</color>
+    <color name="aspha">#34495e</color>
+    <color name="stell">#c0392b</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="anti">#f1f2f6</color>
+    <color name="clouds">#ecf0f1</color>
+
+    <color name="monoStone">#FF3AA8C1</color>
+    <color name="electro">#2f3640</color>
+    <color name="hint_of">#dcdde1</color>
+    <color name="forest_blue">#0a3d62</color>
+
+</resources>

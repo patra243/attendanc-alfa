@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.attendancesystem">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/alfajirilogo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_alfa_foreground"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".view.activity.ShowAttendanceActivity"
+            android:exported="false" />
+        <activity android:name=".view.activity.StudentActivity"
+            android:exported="false"/>
+        <activity android:name=".view.activity.ViewAttendanceActivity"
+            android:exported="false"/>
+        <activity android:name=".view.activity.SelectedCourse1Activity"
+            android:exported="false"/>
+        <activity android:name=".view.activity.TakeAttendanceActivity"
+            android:exported="false"/>
+        <activity android:name=".view.activity.DatePickerActivity"
+            android:exported="false"/>
+        <activity android:name=".view.activity.AttendanceStudentActivity"
+            android:exported="false"/>
+        <activity android:name=".view.activity.SelectedCourseActivity"
+            android:exported="false"/>
+        <activity android:name=".view.activity.AddCourseActivity"
+            android:exported="false"/>
+        <activity android:name=".view.activity.CourseListActivity"
+            android:exported="false"/>
+        <activity android:name=".view.activity.CourseDepartmentActivity"
+            android:exported="false"/>
+        <activity android:name=".view.activity.TeacherActivity"
+            android:exported="false"/>
+        <activity android:name=".view.activity.DeptActivity"
+            android:exported="false"/>
+        <activity android:name=".view.activity.SelectStudentActivity"
+            android:exported="false"/>
+        <activity android:name=".view.activity.AddTeacherActivity"
+            android:exported="false"/>
+        <activity android:name=".view.activity.TeacherListActivity"
+            android:exported="false"/>
+        <activity android:name=".view.activity.AddStudentActivity"
+            android:exported="false"/>
+        <activity android:name=".view.activity.StudentListActivity"
+            android:exported="false"/>
+        <activity android:name=".view.activity.AdminActivity"
+            android:exported="false"/>
+        <activity android:name=".view.activity.StudentLoginActivity"
+            android:exported="false"/>
+        <activity android:name=".view.activity.TeacherLoginActivity"
+            android:exported="false"/>
+        <activity android:name=".view.activity.AdminSignUpActivity"
+            android:exported="false"/>
+        <activity android:name=".view.activity.AdminLoginActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".view.activity.SplashActivity"
+            android:theme="@style/AppTheme.Launcher"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".view.activity.IntroActivity" />
+        <activity android:name=".view.activity.MainActivity" />
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET"
+        tools:ignore="ManifestOrder" />
+
+</manifest>
